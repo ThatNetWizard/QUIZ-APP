@@ -48,6 +48,36 @@ const questions = [
       {text: "Volleyball", correct: false},
       {text: "Football-(Soccer)", correct: true}
     ]
+  },
+  {
+    question: "What is the full meaning of CCTV?",
+    answers: [
+      {text: "Computer Cordless Television" , correct: false},
+      {text: "Closed Computer Television", correct: false},
+      {text: "Closed-Circuit Television", correct: true},
+      {text: "Computerized Camera Television", correct: false},
+      {text: "Closed Camera Television", correct: false}
+    ]
+  },
+  {
+    question: "What is the internal framework of the body?",
+    answers: [
+      {text: "Heart", correct: false},
+      {text: "Intestines", correct: false},
+      {text: "Liver", correct: false},
+      {text: "Skeleton", correct: true},
+      {text: "Kidneys", corrrect: false}
+    ]
+  },
+  {
+    question: "Which country is known for their pyramid structure?",
+    answers: [
+      {text: "America", correct: false},
+      {text: "China", correct: false},
+      {text: "Egypt", correct: true},
+      {text: "France", correct: false},
+      {text: "Germany", correct: false}
+    ]
   }
 ];
 
